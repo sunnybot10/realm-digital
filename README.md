@@ -1,8 +1,6 @@
 # Realm Digital Interview Assessment - Address Book
 
 
-## Getting Started
-
 Clone this project using the following commands:
 
 ```
